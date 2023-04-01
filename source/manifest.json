@@ -13,9 +13,9 @@
       "scripts": ["background.js"]
     },
     "permissions": [
-      "accountsRead",
       "compose",
-      "messagesModify"
+      "tabs",
+      "activeTab"
     ]
   }
   
