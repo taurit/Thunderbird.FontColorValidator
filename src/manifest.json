@@ -1,11 +1,11 @@
 {
     "manifest_version": 2,
-    "name": "Font Color Check",
-    "version": "1.1",
+    "name": "Font Color Validator",
+    "version": "0.1",
     "description": "Warns when sending an email with hardcoded black or white font colors",
     "applications": {
       "gecko": {
-        "id": "font-color-check@taurit.pl",
+        "id": "font-color-validator@taurit.pl",
         "strict_min_version": "78.0"
       }
     },
