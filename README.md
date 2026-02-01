@@ -21,3 +21,14 @@ This is just a quick proof of concept created with some help from ChatGPT 4 ;) I
 
 - Star the repository to let me know someone else uses it, too :)
 - Create a GitHub issue in this project if you encountered any bug or want to suggest an issue.
+
+## How to install?
+
+1) Download the latest release from [Releases](https://github.com/taurit/Thunderbird.FontColorValidator/releases) (a ZIP file, e.g. `font-color-validator-0.1.zip`).
+2) Open Thunderbird.
+3) Go to "Add-ons and Themes" -> "Extensions".
+4) Select option to install add-on from file: 
+  ![Installing an add-on from file in Thunderbird](./images/installation-instruction-01.png)
+5) Select the downloaded ZIP file. Review the permissions and confirm installation.
+
+That's all! Add on should be ready to use, even without restarting Thunderbird 😊 Enjoy!
